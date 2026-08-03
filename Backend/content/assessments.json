@@ -1,0 +1,42 @@
+[
+  {
+    "id": "assess-iq",
+    "title": "认知敏锐度测评",
+    "dimensions": ["逻辑推理", "模式识别", "工作记忆", "抽象归纳"],
+    "durationMinutes": 25,
+    "requiresAuth": true,
+    "requiresPayment": false,
+    "summary": "围绕常见认知维度设计的原创占位题库，用于体验测评流程。正式题库待接入认证供应商。",
+    "status": "placeholder"
+  },
+  {
+    "id": "assess-eq",
+    "title": "情感与关系素养测评",
+    "dimensions": ["自我觉察", "自我管理", "社会觉察", "关系管理"],
+    "durationMinutes": 20,
+    "requiresAuth": true,
+    "requiresPayment": false,
+    "summary": "参考 EQ 四维度框架的原创占位题目，不使用受版权保护的专业量表原文。",
+    "status": "placeholder"
+  },
+  {
+    "id": "assess-values",
+    "title": "性格与价值观地图",
+    "dimensions": ["开放度", "责任感", "合作倾向", "意义取向"],
+    "durationMinutes": 15,
+    "requiresAuth": false,
+    "requiresPayment": false,
+    "summary": "帮助梳理个人价值取向与生活方式偏好，适合作为社群匹配的前置对话。",
+    "status": "placeholder"
+  },
+  {
+    "id": "assess-finance",
+    "title": "财务健康度体检",
+    "dimensions": ["保障缺口", "流动性", "长期配置", "风险承受"],
+    "durationMinutes": 18,
+    "requiresAuth": true,
+    "requiresPayment": true,
+    "summary": "面向中高净值家庭的财务健康度框架测评。深度报告需启明会员权益。",
+    "status": "placeholder"
+  }
+]

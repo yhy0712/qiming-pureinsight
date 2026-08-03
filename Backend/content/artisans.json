@@ -1,0 +1,30 @@
+[
+  {
+    "id": "artisan-01",
+    "name": "林清",
+    "field": "木作 · 家具修复",
+    "avatar_url": "/avatars/placeholder.svg",
+    "bio": "在自动化之外守护手作温度，连接需要修复与定制家具的家庭。"
+  },
+  {
+    "id": "artisan-02",
+    "name": "Anya Chen",
+    "field": "营养与正念陪伴",
+    "avatar_url": "/avatars/placeholder.svg",
+    "bio": "为异地子女设计「远程照顾父母」的健康陪伴方案。"
+  },
+  {
+    "id": "artisan-03",
+    "name": "周衡",
+    "field": "独立顾问 · 家庭保障",
+    "avatar_url": "/avatars/placeholder.svg",
+    "bio": "帮助 50+ 家庭梳理保险缺口与长期照护资源配置。"
+  },
+  {
+    "id": "artisan-04",
+    "name": "Mira Okada",
+    "field": "陶艺与社区工作坊",
+    "avatar_url": "/avatars/placeholder.svg",
+    "bio": "用工作坊重建邻里连接——后AI时代的小生意与归属感。"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "book-econ-01",
+    "category": "economics",
+    "title": "贫穷的本质",
+    "author": "Abhijit V. Banerjee / Esther Duflo",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "以田野实验理解贫困中的激励与保障缺口——保障经济学的入门对照。"
+  },
+  {
+    "id": "book-econ-02",
+    "category": "economics",
+    "title": "基本收入",
+    "author": "Philippe Van Parijs / Yannick Vanderborght",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "后AI时代托底保障的思想谱系：全民基本收入如何重塑工作与尊严。"
+  },
+  {
+    "id": "book-econ-03",
+    "category": "economics",
+    "title": "风险社会",
+    "author": "Ulrich Beck",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "现代性如何制造新的不确定——个人、家庭与制度如何分担风险。"
+  },
+  {
+    "id": "book-fin-01",
+    "category": "finance",
+    "title": "穷查理宝典",
+    "author": "Charles T. Munger",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "多元思维模型：把理财还原为理人生的长期判断。"
+  },
+  {
+    "id": "book-fin-02",
+    "category": "finance",
+    "title": "对抗不确定性",
+    "author": "Peter L. Bernstein",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "风险观念的文明史：保险与资产配置为何是情感与财务的双重保障。"
+  },
+  {
+    "id": "book-fin-03",
+    "category": "finance",
+    "title": "聪明的投资者",
+    "author": "Benjamin Graham",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "安全边际与长期纪律——中高净值家庭配置的经典底色。"
+  },
+  {
+    "id": "book-phil-01",
+    "category": "philosophy",
+    "title": "道德经",
+    "author": "老子",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "启明之魂：在丰裕与动荡之间，如何以道观之、安顿身心。"
+  },
+  {
+    "id": "book-phil-02",
+    "category": "philosophy",
+    "title": "理想国",
+    "author": "柏拉图",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "城邦、正义与教育——三人行对话的西方一极。"
+  },
+  {
+    "id": "book-phil-03",
+    "category": "philosophy",
+    "title": "存在与时间（导读）",
+    "author": "Martin Heidegger（导读选本）",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "在技术时代追问本真生活：工作消逝之后，人何以安居。"
+  },
+  {
+    "id": "book-psy-01",
+    "category": "psychology",
+    "title": "思考，快与慢",
+    "author": "Daniel Kahneman",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "认知偏差如何塑造金钱、婚姻与信任决策。"
+  },
+  {
+    "id": "book-psy-02",
+    "category": "psychology",
+    "title": "情感智商",
+    "author": "Daniel Goleman",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "自我觉察到关系管理——情感保障的通俗地图（非量表原文）。"
+  },
+  {
+    "id": "book-fs-01",
+    "category": "future-society",
+    "title": "未来简史",
+    "author": "Yuval Noah Harari",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "算法、意义与闲暇：后雇佣社会的想象与警惕。"
+  },
+  {
+    "id": "book-fs-02",
+    "category": "future-society",
+    "title": "没有工作的世界",
+    "author": "Daniel Susskind",
+    "cover_url": "/covers/placeholder.svg",
+    "description": "自动化之后，保障与尊严如何重新制度设计。"
+  }
+]

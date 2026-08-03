@@ -1,0 +1,60 @@
+[
+  {
+    "id": "tier-free",
+    "code": "free",
+    "name": "免费体验会员",
+    "priceLabel": "免费",
+    "price": 0,
+    "currency": "USD",
+    "audience": "希望先了解启明与公开讨论的访客",
+    "benefits": [
+      "浏览公开文章首页预览",
+      "参与开放社群讨论",
+      "领取基础书单与活动预告"
+    ]
+  },
+  {
+    "id": "tier-member",
+    "code": "member",
+    "name": "启明会员",
+    "priceLabel": "USD 99 / 年",
+    "price": 99,
+    "currency": "USD",
+    "audience": "希望获得深度测评与资源匹配的个人会员",
+    "benefits": [
+      "深度测评报告（待接入认证题库）",
+      "优先资源匹配与链接申请",
+      "会员书架与专题读书会",
+      "年度家庭智慧与幸福年报摘要"
+    ]
+  },
+  {
+    "id": "tier-honor",
+    "code": "honor",
+    "name": "启明荣誉会员",
+    "priceLabel": "USD 999 / 年",
+    "price": 999,
+    "currency": "USD",
+    "audience": "认同使命、愿深度参与社群与公益实践的同路人",
+    "benefits": [
+      "含启明会员全部权益",
+      "闭门「三人行对话」优先席位",
+      "人类未来学院荣誉校董身份（示意）",
+      "一对一顾问沟通名额（预约制）"
+    ]
+  },
+  {
+    "id": "tier-partner",
+    "code": "partner",
+    "name": "企业 / 合作伙伴",
+    "priceLabel": "洽谈",
+    "price": null,
+    "currency": "USD",
+    "audience": "金融机构、教育、医疗与社区组织等潜在生态伙伴",
+    "benefits": [
+      "合作意向登记与对接",
+      "联合内容 / 活动共创可能性",
+      "资源库与匠人网络的机构入口"
+    ]
+  }
+]
